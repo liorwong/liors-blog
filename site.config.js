@@ -7,14 +7,14 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Lior\'s Library',
+  name: 'Lior\'s Blog',
   domain: 'liorwong.com',
   author: 'Liorwong',
 
   // open graph metadata (optional)
   description: 'Example site description',
   socialImageTitle: 'Liorwong',
-  socialImageSubtitle: 'Hello World! 👋',
+  socialImageSubtitle: 'Greetings from Lior👋',
 
   // social usernames (optional)
   twitter: 'liorwong',
